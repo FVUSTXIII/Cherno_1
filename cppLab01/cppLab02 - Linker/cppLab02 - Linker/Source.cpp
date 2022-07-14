@@ -1,6 +1,5 @@
 #include <iostream>
-
-void Log(const char* message);
+#include "Header.h"
 
 int Multiply(int a, int b) {
 	Log("Multiply!");
